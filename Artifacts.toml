@@ -1,0 +1,27 @@
+[[PGPLOT]]
+arch = "i686"
+git-tree-sha1 = "f348a7ff48865bf60aa7718f87983858c6bb8b1c"
+libc = "glibc"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "4d25e15818f05b7d7027bcd48a9164e909b1c79973943396f12c74921d3d3ee4"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.i686-linux-gnu.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "38efc66efafcdc0d84f7ef05ba5acae4ac00e19d"
+libc = "glibc"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "b2c0766b50310cfdfc7af71ca6f79338cad7ed2f911c794832ec7dca32406d08"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-gnu.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "131ae3b2b8dfd2877ee1402688267f093ad13f8f"
+libc = "musl"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "236608cf89070da7af38beaea9d7de33e8a00be46ab2629b5c7dab8cde3a7f6b"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-musl.tar.gz"
