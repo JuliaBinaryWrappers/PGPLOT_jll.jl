@@ -1,27 +1,90 @@
 [[PGPLOT]]
 arch = "i686"
-git-tree-sha1 = "f348a7ff48865bf60aa7718f87983858c6bb8b1c"
+git-tree-sha1 = "453336da190ae86dd771ff9fb8fa994d6aedd382"
 libc = "glibc"
+libgfortran_version = "3.0.0"
 os = "linux"
 
     [[PGPLOT.download]]
-    sha256 = "4d25e15818f05b7d7027bcd48a9164e909b1c79973943396f12c74921d3d3ee4"
-    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.i686-linux-gnu.tar.gz"
+    sha256 = "7b0525c8e8da859dd47fef57585c0aee3fd568d08416966be1902a44f307caeb"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.i686-linux-gnu-libgfortran3.tar.gz"
 [[PGPLOT]]
-arch = "x86_64"
-git-tree-sha1 = "38efc66efafcdc0d84f7ef05ba5acae4ac00e19d"
+arch = "i686"
+git-tree-sha1 = "f8285ec1e40e51b1c9a2129ca9c0c93f534bff4b"
 libc = "glibc"
+libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PGPLOT.download]]
-    sha256 = "b2c0766b50310cfdfc7af71ca6f79338cad7ed2f911c794832ec7dca32406d08"
-    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b5a57df0315f397c6ce64245215231adfe77fe078f144846962c0381f907f127"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[PGPLOT]]
+arch = "i686"
+git-tree-sha1 = "992f1dd03c8c1109f157da952e364708c12abafe"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "5eef6cbb7e9a7f7e9f1ec263c8a86e2ecea82bf383e04f9179446fa71b5cb905"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.i686-linux-gnu-libgfortran5.tar.gz"
 [[PGPLOT]]
 arch = "x86_64"
-git-tree-sha1 = "131ae3b2b8dfd2877ee1402688267f093ad13f8f"
+git-tree-sha1 = "40e359cd7d7402231f64c8959d959630847362ec"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "3c8625655ad96043c6e1c43c8d2114b94565be263c351bb14c3c7213debd79b2"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "0f01aa4ef3a79ab524890361ce6306d0e7a6cc25"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "c321bcb4773f25e9e48ab8685f67e4d17ff2950efe39d6f8e4b2e09c4c254410"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "414feba29093242deaa237020b5ee871a2a24fe1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "c20f0bdf60f4ec8dd489fde948a2c9a4d89619f8eed5ced1d15b22d6303f0a9d"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "5138c3389301cb0ac8a44ac802ce0fa05ba4c5f6"
 libc = "musl"
+libgfortran_version = "3.0.0"
 os = "linux"
 
     [[PGPLOT.download]]
-    sha256 = "236608cf89070da7af38beaea9d7de33e8a00be46ab2629b5c7dab8cde3a7f6b"
-    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-musl.tar.gz"
+    sha256 = "06358092ec52829018a7d1726dcb0b3c362ee155e4e2a98061ec97002747955e"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "4c81c5c00bc532210900d100ad58a5b34736086f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "bcddde29c76189aeb2f96d21b8d639473eb4ed52953e74732797c2b65b9679d7"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[PGPLOT]]
+arch = "x86_64"
+git-tree-sha1 = "d12c65268bae3f6c88e9fd06d1de056ef9db3d43"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PGPLOT.download]]
+    sha256 = "9a9bdf997bac5acf64c53539dd603ccdca0f387b0928a3cf8c03274356b4270e"
+    url = "https://github.com/JuliaBinaryWrappers/PGPLOT_jll.jl/releases/download/PGPLOT-v5.2.0+0/PGPLOT.v5.2.0.x86_64-linux-musl-libgfortran5.tar.gz"
